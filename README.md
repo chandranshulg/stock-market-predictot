@@ -35,10 +35,6 @@ This project involves building a stock price prediction model using Long Short-T
    ```bash
    pip install -r requirements.txt
    
-3. **Create requirements.txt**:
-
-   ```bash
-   pip freeze > requirements.txt
 
 **You can install the necessary packages using pip**:
 
