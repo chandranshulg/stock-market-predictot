@@ -50,5 +50,6 @@ This project involves building a stock price prediction model using Long Short-T
 
 1. **Update the Ticker Symbol**: Modify the ticker variable in the main() function to the stock symbol you wish to analyze.
 2. **Run the Script**: Execute the script to perform data loading, preprocessing, model training, evaluation, and saving.  
+
    ```bash
    main.py
