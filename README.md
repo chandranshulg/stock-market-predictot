@@ -1,4 +1,4 @@
-# Stock Price Prediction with LSTM
+# Stock Price Prediction 
 
 This project involves building a stock price prediction model using Long Short-Term Memory (LSTM) networks. The model utilizes technical indicators like SMA, RSI, and MACD, to predict future stock prices.
 
@@ -22,7 +22,25 @@ This project involves building a stock price prediction model using Long Short-T
 - tensorflow
 - yfinance
 
-You can install the necessary packages using pip:
+## Installation
+
+1. **Clone the Repository**:
+
+     ```bash
+    git clone https://github.com/chandranshulg/stock-market-predictot.git
+    cd /stock-market-predictot
+
+2. **Install Dependencies**:
+
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Create requirements.txt**:
+
+   ```bash
+   pip freeze > requirements.txt
+
+**You can install the necessary packages using pip**:
 
     ```bash
     pip install pandas numpy matplotlib scikit-learn tensorflow yfinance
