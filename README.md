@@ -28,7 +28,7 @@ This project involves building a stock price prediction model using Long Short-T
 
      ```bash
     git clone https://github.com/chandranshulg/stock-market-predictot.git
-    cd /stock-market-predictot
+    cd stock-market-predictot
 
 2. **Install Dependencies**:
 
